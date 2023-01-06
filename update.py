@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 import os
 
+os.system("ps2pdf slides_src/lecture1.pdf slides/lecture1.pdf")
+os.system("ps2pdf slides_src/lecture2.pdf slides/lecture2.pdf")
+os.system("ps2pdf slides_src/lecture3.pdf slides/lecture3.pdf")
+
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--m",default="Update",

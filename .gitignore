@@ -1,1 +1,4 @@
 slides_src
+*.OUT
+*.pkl
+.ipynb_checkpoints
