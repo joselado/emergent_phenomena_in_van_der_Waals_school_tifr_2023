@@ -1,5 +1,5 @@
 # School "Emergent phenomena in van der Waals heterostructures"
-Teaching material for the Pedagogical School ["Emergent phenomena in van der Waals heterostructures"](https://sites.google.com/view/emergentvdw/home)
+Teaching material for the Pedagogical School ["Emergent phenomena in van der Waals heterostructures"](https://sites.google.com/view/emergentvdw/home), held at Tata Institute of Fundamental Research (TIFR), Mumbai, India
 
 ## Lecture slides
 The folder slides contains the slides of the lectures
